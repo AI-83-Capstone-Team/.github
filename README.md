@@ -1,2 +1,3 @@
-# .github
-UBC Electrical Engineering Capstone Group AI-83
+# UBC Electrical Engineering Capstone Group AI-83
+
+## Pound-Drever-Hall Laser Locking PCB
